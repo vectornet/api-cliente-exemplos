@@ -1,5 +1,5 @@
 /*
- * Exemplo de uma chamada na API da base na linguagem PHP
+ * Exemplo de uma chamada na API da base na linguagem Javascript
  *
  * author Joubert <me+github@redrat.com.br>
  */
